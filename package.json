@@ -1,0 +1,22 @@
+{
+  "name": "charles-preso",
+  "version": "1.0.0",
+  "description": "charles HTML5 slides",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnzengou/Charles-preso.git"
+  },
+  "author": "desireyavro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnzengou/Charles-preso/issues"
+  },
+  "homepage": "https://github.com/dnzengou/Charles-preso#readme"
+}
