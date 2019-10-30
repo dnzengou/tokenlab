@@ -145,7 +145,7 @@ footer ul li a {
 }
 
 .cube {
-  animation: rotate 60s infinite linear;
+  animation: rotate 120s infinite linear;
 }
 
 .wrap:hover .front {
