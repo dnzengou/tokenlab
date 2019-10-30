@@ -1,5 +1,61 @@
 [Table of Contents](../African-Token-Lab_whitepaper.md#table-of-contents) | [Next Page: Proof-of-Concept ->](Proof-of-Concept.md)
 
+
+# The Africa Token Lab
+**<short definition>**
+Michael 
+Norbert @tokenlab
+Frank
+Désiré desire@tokenlab<br/>
+_NOTE: If you can read this on GitHub, then we're still actively developing this
+document. Please check regularly for updates!_
+<div STYLE="page-break-after: always;"></div>
+## Table of Contents ###########################################################
+<!--* [Disclaimer](#disclaimer)
+* [IRIS Overview](#iris-overview)
+* [Cosmos and Tendermint](#cosmos-and-tendermint)
+* [IRIS Innovations](#iris-innovations)
+* [IRIS Network Design](#iris-network-design)
+* [Network Actors](#network-actors)
+* [IRIS Services](#iris-services)
+* [IBC Enhancement](#ibc-enhancement)
+* [Use Cases](#use-cases)
+* [Token Economics](#token-economics)
+* [Initial Token Distribution](#initial-token-distribution)
+* [Roadmap](#roadmap)
+* [The Team](#the-team)
+* [Core Members](#core-members)
+* [Advisors](#advisors)
+* [References](#references)-->
+<div STYLE="page-break-after: always;"></div>
+
+## Disclaimer
+This whitepaper and any other documents published in association with this whitepaper relate to
+the intended development and use of the Africa Token Lab. They are information purposes only
+and may be subject to change.
+
+### This whitepaper describes a developing project
+This whitepaper contains forward-looking statements that are based on the beliefs of Africa Token Lab Limited,
+as well as certain assumptions made by and information available to Africa Token Lab Limited.
+The Africa Token Lab as envisaged in this whitepaper is under development and is being constantly
+updated, including but not limited to elements of governance and technical features offering.
+If and when the African Token Lab is set up, it may differ significantly from the lab set out in
+this whitepaper. No representation or warranty is given as to the achievement or
+reasonableness of any plans, future projections or prospects and nothing in this document is or
+should be relied upon as a promise or representation as to the future.
+
+### No offer of regulated products
+This document does not constitute an offer or solicitation of securities or any other regulated
+product.
+The Africa token Lab does not represent equity, shares, units, royalties or rights to capital, profit, returns or income in the platform or software or any other company or intellectual property associated with the platform or any other public or private enterprise, corporation, foundation or other entity in any jurisdiction.
+
+### This whitepaper is not advice
+This whitepaper does not constitute advice to purchase any named African Token Lab tokens, at this current stage of project development. It must not be relied upon in connection with any contract or purchasing decision.
+If any changes moving forward, we'll keep you informed via this working repository.
+
+
+### Risk warning
+
 # Introduction
 
 The objective of this whitepaper is to outline the drivers, benefits, risks, considerations, and governance taken into account when determining when and where to adopt [Traceability tools, methods and/or standards](2_Open_Standards.md) and [use](3_Open_Source_Software_Use.md) as well as [contribute](4_Open_Source_Software_Contribution.md) to Open Source Software (OSS). This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase solutions, and provide information and services to Canadians.
@@ -11,6 +67,89 @@ This whitepaper has for scope the following elements: Blockchain basics introduc
 We will complement the scope with: the Project history and background; Project status; Proof-of-Origin; SourceCoin; Incentivisation and Coin Distribution; End Users; Current investors/shareholders -- (a) the Team, (b) Crowd Sale Participants; Developers; Crowd Sale; The African Token Lab Foundation; The Annex.
 
 The following concepts are not part of the whitepaper as they have their own dedicated documentation: (...). Their importance is nonetheless recognized as critical to an open and transparent venture.
+
+## What do we want to achieve
+<ul>
+<li>Our Mission is to shift our current way of doing things to an incentives-based model
+</li>
+<li>Objective: Tokenize the economy
+</li>
+<li>Values: Efficiency, Optimization, Ethics, Integrity, Versatility, Decentralization
+</li>
+</ul>
+
+## Who our customer is
+<ul>Potential industry sectors to offer our services to:
+<li>Digital payment / Fintech
+</li>
+<ol>Payment tokenisation
+</ol>
+<li>Supply chain, logistique
+</li>
+<li>Blockchain for administrative processes
+efficiency</li>
+<li>Agriculture / Agri Tech
+</li>
+<Blockchain for IoT security
+</li>
+<li>Food and beverage industry
+</li>
+<ol>Traceability; Proof-of-Origin
+</ol>
+<li>Environment; Renewability
+</li>
+<ol>CO2 footprint tokenisation
+</ol>
+<li>Energy / energy tech (smart grid)</li>
+<ol>From consumer to prosumer
+</ol>
+</ul>
+
+<ul>Our initial customers segment target are organizations.
+<li>We work with public private organisations to finding innovative,
+</li>
+<li>user-centered approach to solve their problems in a time and cost
+</li>
+<li>efficient fashion, offering along the way transparence, immutability and
+</li>
+</li>trust to end-users by leveraging on distributed ledger technology, with
+</li>
+</li>a particular focus on the practical application to the 'real economy' of
+</li>
+<li>the concepts such as smart contracts, private keys or Token.
+</li>
+</ul>
+
+## Communication
+
+### Channels we use
+Twitter, WhatsApp / Slack, YouTube, Medium, Vimeo, Signal, (Telegram?)
+
+### We publish every
+3x a week minimum
+
+### Content do we create for each channel
+<ul>
+<ol>Twitter: (informative) tweets + images + videos / gif
+</ol>
+<ol>YouTube: demo videos + tutorials / 'webinar' / workshop + social sharing (from the community)
+</ol>
+<ol>WhatsApp: social messaging, automatic messaging, ads
+</ol>
+<ol>Vimeo: tutorial, webinar / workshop
+</ol>
+<ol>Slack: professional communication & document sharing over various channels
+</ol>
+<ol>Signal (or Telegram) : work communication
+</ol>
+<ol>Medium: blogging, tutorials
+</ol>
+</ul>
+
+### Roles & Responsibilities
+<ul>Who does what
+
+
 
 <!--
 
@@ -93,6 +232,8 @@ If TBS wants the GC to become an open organization and shift to a more open cult
 
 -->
 
+
+### Projects
 
 #### Traceability
 Considering the inability to accurately and fully -- all along the value chain -- track goods or transactions from end-to-end cause citizens to demand for more transparency, traceability and fair processes applied to products they consume. We are here calling for  the community’s creativity to come up with innovative ways to check the proof of origin for procured products. In particular, solutions should prove, among other things, that food supply is safe, smallholder farmers have been fairly retributed, farm or agricultural products are meeting compliance standards, EH&S (Environment, Health and Safety) and quality requirements.
