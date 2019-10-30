@@ -3,10 +3,10 @@
 
 # The Africa Token Lab
 **<short definition>**
-Michael 
-Norbert @tokenlab
-Frank
-Désiré desire@tokenlab<br/>
+* Michael 
+* Norbert @tokenlab
+* Frank
+* Désiré desire@tokenlab<br/>
 _NOTE: If you can read this on GitHub, then we're still actively developing this
 document. Please check regularly for updates!_
 <div STYLE="page-break-after: always;"></div>
@@ -28,6 +28,22 @@ document. Please check regularly for updates!_
 * [Advisors](#advisors)
 * [References](#references)-->
 <div STYLE="page-break-after: always;"></div>
+
+
+# Introduction
+
+The objective of this whitepaper is to outline the drivers, benefits, risks, considerations, and governance taken into account when determining when and where to adopt [Traceability tools, methods and/or standards](2_Open_Standards.md) and [use](3_Open_Source_Software_Use.md) as well as [contribute](4_Open_Source_Software_Contribution.md) to Open Source Software (OSS). This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase solutions, and provide information and services to Canadians.
+
+## Scope
+
+This whitepaper has for scope the following elements: Blockchain basics introduction; Beyond the technology, the Pain; The Pill; Traceability, Why - How - What; Open Standards; Open Markets; Open Culture; and some common Legal Considerations. Each concept will have the following structure: the benefits; the risks and drawbacks; and best practices.
+
+We will complement the scope with: the Project history and background; Project status; Proof-of-Origin; SourceCoin; Incentivisation and Coin Distribution; End Users; Current investors/shareholders -- (a) the Team, (b) Crowd Sale Participants; Developers; Crowd Sale; The African Token Lab Foundation; The Annex.
+
+The following concepts are not part of the whitepaper as they have their own dedicated documentation: (...). Their importance is nonetheless recognized as critical to an open and transparent venture.
+
+
+<hr>
 
 ## Disclaimer
 This whitepaper and any other documents published in association with this whitepaper relate to
@@ -54,19 +70,93 @@ This whitepaper does not constitute advice to purchase any named African Token L
 If any changes moving forward, we'll keep you informed via this working repository.
 
 
-### Risk warning
+**Dispute Resolution**
 
-# Introduction
+In any case where a consumer is unsatisfied with a service response, a complaint manangement mechanism should exist allowing the consumer to issue a complaint and consequently, to receive an acceptable solution to that complaint, subjecting that the said mechanism is compliant to regulation in place, though without having to resort to a centralized authority such as the legal system in place.  Also, this mechanism should avoid introducing subjective evaluation, which could be abused by both side.
 
-The objective of this whitepaper is to outline the drivers, benefits, risks, considerations, and governance taken into account when determining when and where to adopt [Traceability tools, methods and/or standards](2_Open_Standards.md) and [use](3_Open_Source_Software_Use.md) as well as [contribute](4_Open_Source_Software_Contribution.md) to Open Source Software (OSS). This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase solutions, and provide information and services to Canadians.
+In the proposed process to resolve a dispute that arises between service provider and consumer within an Africa Token Lab project, the mechanism shall be designed in a way that a consumer sends a `Complaint` to the service provider, and the later responds with a `Resolution`.
 
-## Scope
 
-This whitepaper has for scope the following elements: Blockchain basics introduction; Beyond the technology, the Pain; The Pill; Traceability, Why - How - What; Open Standards; Open Markets; Open Culture; and some common Legal Considerations. Each concept will have the following structure: the benefits; the risks and drawbacks; and best practices.
 
-We will complement the scope with: the Project history and background; Project status; Proof-of-Origin; SourceCoin; Incentivisation and Coin Distribution; End Users; Current investors/shareholders -- (a) the Team, (b) Crowd Sale Participants; Developers; Crowd Sale; The African Token Lab Foundation; The Annex.
+<hr>
 
-The following concepts are not part of the whitepaper as they have their own dedicated documentation: (...). Their importance is nonetheless recognized as critical to an open and transparent venture.
+
+# A bit of history
+
+# Chapter I – Blockchain: A Social Experiment and Financial Revolution
+
+## The History of Blockchain Technology
+### also know as (a.k.a) Distributed Ledger of Technology
+### or Distributed Ledger of Trust (DLT)
+
+In 1982, American computer scientist David Chaum first put forward the idea of an untraceable cryptographic online payment system. In 1990, he developed this idea into the world’s first anonymous cryptographic electronic cash system, known as eCash.
+
+In 1998, computer engineer Wei Dai published a paper introducing a new system of anonymous and distributed electronic cash, which he named B-money.
+
+In 1998, the same year that Wei Dai's paper was published, Nick Szabo created the architecture for a system called ‘Bit Gold,’ and constructed a system to authenticate property rights. Hal Finney went on to improve this mechanism and transform it into a reproducible proof of work.
+
+In 2008, Satoshi Nakamoto released *Bitcoin: A Peer to Peer Electronic Cash System* on a cryptography mailing list – the first paper to propose the concept of blockchain. He then used this concept to propose the construction of the Bitcoin blockchain network. Since its establishment in 2009, the Bitcoin blockchain network has maintained operations, and the entire digital currency process has now been fully realized, from token issuance to digital asset circulation. At the same time, the basic underlying technology of blockchain has also been applied to a gradually growing set of scenarios, which has subsequently helped to create various new types of digital currencies.
+
+In 2015, the open-source project Ethereum was officially released, featuring the concept of smart contracts, inspiring a host of innovators. Ethereum provides complete freedom through its Turing-complete scripting language, and allows for consistent registration and transfer of a variety of digital assets and smart contracts, greatly facilitating the issuance and circulation of digital currency, and significantly broadening its application scenarios.
+
+The rapid development of blockchain technology has gradually raised the public profile of digital currency. This has especially been the case since early 2017, when initial coin offerings (ICOs) became an increasingly prominent and frequent business practice, helping a broad plethora of products to continuously emerge across the industry, bringing a new cycle of prosperity to the digital currency market. At the end of 2017, this surge reached its peak, and observers inside and outside the industry widely opined that blockchain would become the next tech revolution following the mobile internet. During this same period, a large number of leaders in the tech and finance industries began to actively embrace blockchain for use in their companies or projects.
+
+## The Impact of Blockchain on Traditional Finance
+
+Technological innovation and development has allowed the format of financial services to evolve. Over the past five decades, electronic financial data has replaced hand-written records, enabling an era of credit cards. The popularity of terminals has marked the ATM era, while the coming of Internet and mobile Internet has introduced electronic banking and mobile payments.
+
+The arrival of blockchain today marks another historical era.
+
+Blockchain, together with technologies such as big data, AI, cloud computing, and bio-informatics, will form the internet underlying infrastructure for the next generation. This infrastructure will be able to overcome several longstanding problems in the current various systems that govern areas of finance, supply chain, agriculture, health data and identity management, traceability, etc .
+
+First and foremost rationales behind the invention and use of blockchain are closely linked to challenges hereby presented, in relation to financial sector to start with, that every one of us can relate to, to a certain degree, and as many areas of opportunity for blockchain 
+
+1.  In the traditional centralized financial system, financial intermediary fees are high enough to limit transaction scale. Intermediaries not only have large expenses for themselves, but also require high profits to cover potential credit risks. Blockchain distributed ledger is a trust machine; It can help financial institutions save on intermediary costs, without requiring a third-party intermediary, making small and micro-sized peer-to-peer transactions possible.
+
+2.  In the traditional centralized financial system, transactions are frequently not “atomized,” but rather the intermediary assumes the responsibility as a guarantor, which makes it possible for either party to maliciously default and defraud the other party. Since blockchain is a distributed technology, a financial system based on it contains no single point of failure, and creates no risk of collapse.
+
+3.  In the traditional centralized financial system, users’ private data and assets are potentially vulnerable. In the blockchain network, user data is kept by users themselves, instead of in a centralized system, realizing democratization of data, and effectively protecting privacy and asset security.
+
+
+
+## Blockchain and Pilot Projects
+
+At the present phase, extensive blockchain integration and pilot projects have been developed in cross-border payments, asset management, digital fiat currency, trusted identity, internal settlement, security and asset transactions etc.
+
+Some are listed below:
+
+
+
+### Projects
+
+#### DLT + Traceability
+Considering the inability to accurately and fully -- all along the value chain -- track goods or transactions from end-to-end cause citizens to demand for more transparency, traceability and fair processes applied to products they consume. We are here calling for  the community’s creativity to come up with innovative ways to check the proof of origin for procured products. In particular, solutions should prove, among other things, that food supply is safe, smallholder farmers have been fairly retributed, farm or agricultural products are meeting compliance standards, EH&S (Environment, Health and Safety) and quality requirements.
+
+#### DLT + Digital Fiat Currencies
+
+Venezuelan President Nicolás Maduro announced the birth of the Petro in a televised speech on December 3, 2017. Venezuela launched the pre-sale on February 20, 2018, making the country a world leader in digital fiat. The pre-sale raised 735 million USD on the first day.
+
+According to the White Paper, the Venezuelan government expected to issue 100 million Petros, worth about 60 billion USD, and it will be listed on cryptocurrency exchanges. The government will accept Petros as payment for taxes, fees, donations, and public services. State-owned companies including the petroleum company PDVSA will also participate in Petro sale and purchase.
+
+Maduro said that the new currency would be supported by Venezuela's oil, gasoline, gold, and diamond reserves. The Petro will help Venezuela “move forward in currency sovereignty” and provide the country with “a new form of international financing.” Through this innovative step, Maduro hoped to lead the country out of its mire of hyperinflation and severe economic crisis, paying off debts and increasing imports of necessities and raw materials. He also hoped to bypass the economic sanctions imposed by the US government, allowing US individuals and Venezuelan enterprises to resume business.
+
+Besides Venezuela, many other countries are also accelerating research on digital fiat currencies based on blockchain. For example, the Monetary Authority of Singapore and Deloitte have jointly launched Project Ubin to digitize the Singapore dollar (SGD). The Bank of Canada has also launched CAD-coin, a Jasper-based digital fiat currency project; the People's Bank of China has established the Digital Currency Research Institute, organizing experts to study central bank digital currencies; The Marshall Islands will issue its own legal tender cryptocurrency, pegged to the US dollar.
+In Africa, countries like Rwanda, via the central banks, are exploring the possibility and feasibility of a country-owned bank (eg. Rwanda coin) for, among other benefits, monetary autonomy and a cashless society. As the technology continues to develop, we believe that more countries will eventually use blockchain to build their own digital currencies.
+
+### DLT + Trusted Identity
+
+In early 2018, SecureKey, initially established in Canada, cooperated with IBM to release a nationwide identity and authentication system based on blockchain. The new system applies IBM’s blockchain technology to enable users to prove their identity to the government, banks, and telecommunication operators through mobile phones and Windows devices. Through the app, they can also confirm details such as their age or credit score when accessing services. Online consumers will no longer need to sign documents by themselves or provide other identification materials when applying for new apartments or mobile phones. The blockchain authentication system will enable them to control and share their personal information without using a centralized system to create “value” information, with its security vulnerabilities. It is reported that Toronto-Dominion Bank, the Royal Bank of Canada, and other large financial institutions have invested CAD 30 million (about US$ 23.5 million) in the program.
+
+### DLT + Corporate Tokens
+
+In February 2019, J.P. Morgan Chase & Co., the largest US commercial bank, announced a plan to issue its own digital currency, JPMCoin on its private chain platform Quorum. JPMCoin is pegged at a 1:1 ratio to the US dollar, and the company will use its strong capital reserve to ensure the stability of its token. JPMCoin is designed for inter-enterprise capital flow, and its early applications mainly involve cross-border payment, securities trading, and US dollar substitution for large enterprise customers. However, few institutional customers have participated in the test. Meanwhile, the internet giant Facebook is also quietly but surely moving into cryptocurrency via the introduction of its cryptocurrency (Libra) and wallet (Calibra).
+
+
+<hr>
+
+
+
+# About Africa Token Lab
 
 ## What do we want to achieve
 <ul>
@@ -148,92 +238,48 @@ Twitter, WhatsApp / Slack, YouTube, Medium, Vimeo, Signal, (Telegram?)
 
 ### Roles & Responsibilities
 <ul>Who does what
+<li> Désiré is technology expert and entrepreneur in the tech startup ecosystem;</li>
+<li> Norbert is blockchain strategist, and entrepreneur in e-commerce sector;</li>
+<li> Michael is security professional, entrepreneur founder of a crypto company Bit2Big;</li>
+<li> Frank is a parliementary and environmental policy specialist.</li>
 
 
-
-<!--
 
 ## Strategic Environment
 
 ### Organizational Overview
 
-Openness and transparency are fundamental to ensuring Canadians' trust in their government and in democracy overall. Citizens expect their government to be open, transparent, and accountable. They also expect their government to deliver real, meaningful results, in a fair, efficient, and responsible manner. The GC's commitment to openness is intended to foster greater transparency and accountability, and to help create a more cost-effective, efficient, and responsive government for all Canadians. ([Third Biennial Plan to the Open Government Partnership](https://open.canada.ca/en/content/third-biennial-plan-open-government-partnership))
+Openness and transparency are fundamental to ensuring people's trust in their government, country's businesses, and in democracy as a whole. Citizens expect their government to be open, transparent, and accountable. They also expect public organizations, and nowadays private organizations as well, to deliver real, meaningful results, in a fair, efficient, and responsible manner. Africa Tiken Lab's commitment to openness is intended to foster greater transparency and accountability from partners it collaborates with, and to help create a more cost-effective, efficient, and responsive society for all stakeholders.
 
-The GC is committed to raising the bar on openness and transparency. The ministerial mandate letters sent to each of the Cabinet Ministers reinforces expectations that all federal departments and agencies will do their part to ensure an open, honest government that is accountable to Canadians, lives up to the highest ethical standards, and advances Canadians' priorities with a renewed sense of collaboration.
+The Africa Token Lab is committed to raising the bar on openness and transparency. All federal departments and agencies will do their part to ensure an open, honest organization that is accountable to consumers, lives up to the highest ethical standards, and advances stakeholders' priorities with a renewed sense of collaboration.
 
-We are delivering on that with the [Open Government Portal](https://open.canada.ca/en) that enables searching GC open datasets and open information digital records. Canada has also been an active Open Government Partnership (OGP) member since 2012; In September, 2017, Canada came first in the election of the new OGP Steering Committee members, and assumed its seat on the Steering Committee. Canada will also be hosting the OGP Global Summit in Ottawa in May 2019.
+We are delivering on that with the [Africa Token Lab portal](https://bit.ly/africatokenlab).
 
-In October 2017, Treasury Board of Canada Secretariat (TBS) reached a [Memorandum of Understanding (MOU) concerning Digital Government with the United Kingdom](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/memorandum-understanding-concerning-digital-government.html) that includes open data and open government, but also add other principles of digital development such as open standards, OSS and open markets.
-
-Soon after, the [GC Strategic Plan for IM and IT 2017-2021](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/strategic-plan-2017-2021.html) included a new planned action to introduce a strategy for use of OSS and open standards. TBS will lead the development of a strategy to set direction for the government on the use and release of OSS and open standards that will be ratified by GC EARB.
-
-In December 2017 the [GC EARB members endorsed](http://www.gcpedia.gc.ca/gcwiki/images/9/98/GC_EARB_2017-12-14_Record_of_Discussion.pdf) that GC EARB supports the formalization of a common GC-wide approach to the adoption of open source within government, resulting in a more robust open community within the GC.
-
-In February 2018, [Canada signs the Digital 7 (D7) charter](https://www.canada.ca/en/treasury-board-secretariat/news/2018/02/canada_joins_leadingdigitalnationsind7.html) and joins Estonia, Israel, South Korea, New Zealand, the UK and Uruguay committing to working towards core principles of digital development, with a focus on user needs, open government, and a commitment to share and learn from D7 member nations. The D7 charter, which also calls for commitments to open standards, OSS, open government and teaching children to code.
-
-In May 2018, TBS reached a [MOU on cooperation in the field of digital government and economy with Estonia](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/memorandum-understanding-can-estonia-digital-government-economy.html), a fellow member of the D7 and the OGP.
 
 ### Business Need
 
-The GC's departments and agencies need to find effective ways to offer the best digital services possible to citizens and users. This implies working in the open by default, by releasing all non-sensitive data, information and source code under an open licence that enables sharing and reuse. There's a need for improved interoperability between systems; more independence from data formats, software, technologies and vendors; substitutability of solutions and service providers and; avoiding lock-in to enable greater flexibility in the management of IT solutions. The GC also needs to attract digital talent and increase job satisfaction by embracing leading practices and the latest technologies. Finally, the GC must provide public benefits to the public-at-large as well as support the Canadian economy and communities.
+The future Africa Tiken Lab departments and units need to find effective ways to offer the best digital services possible to consumers and partners. This implies working in the open by default, by releasing all non-sensitive data, information and source code under an open licence that enables sharing and reuse. There's a need for improved interoperability between systems; more independence from data formats, software, technologies and vendors; substitutability of solutions and service providers and; avoiding lock-in to enable greater flexibility in the management of IT solutions. The Africa Token Lab shall also provide benefits to the public-at-large as well as support the local, regioanl and continental economy and communities.
+
+A practical example, also presented in this document, shall be the use of blockchain technology in the context of agricultural transformation:
+Food Safety is of vested interest for both producer and consumer and to achieve that it is important to have the traceability (via proof of origin) for knowing if it is fresh and exactly where it comes from, who grew and processed it. This could also help in preventing fraud, false labelling, redundant middlemen, reducing transaction costs and overcoming some challenges of logistics, especially related perishable food items with shorter shelf life. 
 
 ### Drivers for Change
 
-#### Policy
-
-In recent years, the GC has taken multiple steps towards being a more open organization, including commitments to open Government, use open standards and OSS as well as release source code under an open licence. These commitments are in Memorandums of Understanding around digital services, with D7 partners, the United Kingdom and Estonia. The ministerial mandate letters sent to each of the Cabinet Ministers reinforces expectations that all federal departments and agencies will work in the Open by default. These policy changes challenge the status quo and force the various organizations of the GC to adapt their technologies.
-
 #### Technology and Efficiency
 
-Leveraging technologies that are built on open standards mitigate against the risk of lock-in and offers the interoperability, independence and substitutability required to design enterprise level applications and services. OSS by default encourages the use of open standards and their inherent flexibility enables rapid response to changing missions and markets as well as swift provisioning of both known and unanticipated users.
+Leveraging technologies that are built on open standards mitigate against the risk of lock-in and offers the interoperability, independence and substitutability required to design enterprise level applications and services. Africa Token Lab by default encourages the use of open standards and their inherent flexibility enables rapid response to changing missions and markets as well as swift provisioning of both known and unanticipated users.
 
-Using OSS means you can benefit from solving common problems with readily available technology and you have more time and resource for customized solutions to solve the rare or unique problems. OSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and encourages the identification and elimination of defects not recognized by the original development team. For the public sector, like all organizations, cost is important, but other public benefits can also motivate public sector use of OSS.
+From a support and maintenance perspective, future Africa Token Lab software solutions - as opposed to more burdensome usages of proprietary software and their users licences - provides a real cost advantage where multiple copies of software are required, or when the user base grows. Since there is no need to manage individual user licence, the focus is more on maintaining the application itself.
 
-From a support and maintenance perspective, OSS - as opposed to more burdensome usages of proprietary software and their users licences - provides a real cost advantage where multiple copies of software are required, or when the user base grows. Since there is no need to manage individual user licence, the focus is more on maintaining the application itself. Using OSS and service providers also helps avoid lock-in as it is possible to seek other service providers to support the maintenance and development of the solution.
-
-#### Economy
-
-Adopting and using open standards means it is possible to move between different technologies when needed, thus avoiding lock-in and opening up the range of companies that the organization can purchase from. Doing so would encourage more of them to use the same standards and encourage a wider range of both open source and closed-source software.
-
-OSS provides an advantage in that it creates an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines. Using OSS may better support local businesses in Canada as it would encourage [Open Markets](5_Open_Markets.md).
 
 #### Community, Demography and Society
 
-Citizens expect accessibility, official languages and continuous improvements of digital services provided by the GC. The flexibility of using OSS compel GC to meet user needs by modifying existing or creating new OSS.
+Consumers and stakeholders expect accessibility, official languages and continuous improvements of digital services provided by the Africa Token Lab.
 
-Canada has set a very clear Open Government mandate to "create greater transparency and accountability, increase citizen engagement, and drive innovation and economic opportunities through open data, open information, and open dialogue". Sharing in-house software programs under an OSS licence naturally align with the role of public administrations in providing wide benefits to the public-at-large, such as in maintaining society's technological infrastructure and helping it evolve. OSS can also help maximize overall economic efficiency within society. Where software is freely available, and where anyone can add any new features needed, companies can make use of these existing resources rather than expend effort duplicating an existing project.
-
-Releasing an in-house software code under an OSS licence can encourage external contributions and collaboration from governments, companies, students and citizens in the form of source code, bugs and documentation. The project can be a joint effort amongst multiple companies, public sector workers, and individual volunteers. Releasing software as OSS to encourage others to collaborate on it can also help ensure the viability of a project into the future. The release of OSS by public sector organizations can also help stimulate innovation in the private sector. It enables companies to create specialized offerings built on OSS, even where such software might otherwise be too expensive for the company to develop in-house.
-
-### Business Outcomes
-
-The expected results of the GC working in the open, using open standards and open source software are as follows:
-
-* Canadians are able to find, use and contribute to GC software projects and source code as well as open source software used by the GC to support meaningful engagement with their government and communities.
-* Enable greater flexibility in the management of information and communication technologies (ICT).
-* Support and increase collaboration with other public administrations in Canada and around the world.
-* Improve the overall availability of re-usable technology within government and society.
-
-## Strategic Fit
-
-The GC Digital Playbook includes principles on the [use of open standards](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/4-use-open-standards-solutions.html) to ensure your system works and communicates with other products or systems, and can easily be upgraded and expanded; the [use of OSS](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/4-use-open-standards-solutions.html) since, by their nature, they are publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable; and [working in the open](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/3-work-in-open-by-default.html) by making source code open and reusable under an appropriate OSS licence, so that other developers can benefit from your work and build on it.
-
-There are great opportunities to learn and engage with our D7 partners, for example by aligning and collaborating with the [UK Open Standards Board](https://www.gov.uk/government/groups/open-standards-board) on selecting open standards for government.
-
-## Detailed Description of the Business Need
-
-### Problem/Opportunity Statement
-
-Open standards and OSS are only slowly gaining traction in the GC, particularly when compared to the private sector and other public administrations (US, UK, France, Italy, Estonia, New Zealand, etc.). Relatively low levels of adoption have been attributed to a lack of understanding of the potential benefits, accompanied by a risk-averse technical and procurement culture, compounded by significant levels of misconceptions.
-
-Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. More so, the use of OSS supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Both help mitigate the risks of lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction.
-
-If TBS wants the GC to become an open organization and shift to a more open culture especially around digital and technology, it should strongly endorse the adoption of open Standards for data, information and communications; the use of OSS in our technology stack; contributing to upstream development of OSS; releasing code developed internally under OSS licenses and collaborating more widely with other public administrations in Canada and around the world.
-
--->
+Releasing an in-house software code under an creative common licence, for example and among others, can encourage external contributions and collaboration from governments, companies, students and consumers overall in the form of source code, bugs and documentation. The project can be a joint effort amongst multiple companies, public sector workers, and individual volunteers. 
 
 
-### Projects
 
-#### Traceability
-Considering the inability to accurately and fully -- all along the value chain -- track goods or transactions from end-to-end cause citizens to demand for more transparency, traceability and fair processes applied to products they consume. We are here calling for  the community’s creativity to come up with innovative ways to check the proof of origin for procured products. In particular, solutions should prove, among other things, that food supply is safe, smallholder farmers have been fairly retributed, farm or agricultural products are meeting compliance standards, EH&S (Environment, Health and Safety) and quality requirements.
+
+
+
