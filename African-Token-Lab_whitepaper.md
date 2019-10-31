@@ -2,31 +2,36 @@
 
 
 # The Africa Token Lab
-**<short definition>**
-* Michael 
-* Norbert @tokenlab
-* Frank
-* Désiré desire@tokenlab<br/>
+**We work with organisations to find innovative solutions to challenges with the use of distributed ledger technology and user-centered design. Our initial focus is on traceability of goods and products, from the producer to the end-users; with room for expansion to further challenges**
+
+Who?
+* michael@tokenlab
+* norbert@tokenlab
+* frank@tokenlab
+* desire@tokenlab<br/>
+
 _NOTE: If you can read this on GitHub, then we're still actively developing this
 document. Please check regularly for updates!_
 <div STYLE="page-break-after: always;"></div>
+
 ## Table of Contents ###########################################################
-<!--* [Disclaimer](#disclaimer)
-* [IRIS Overview](#iris-overview)
-* [Cosmos and Tendermint](#cosmos-and-tendermint)
-* [IRIS Innovations](#iris-innovations)
-* [IRIS Network Design](#iris-network-design)
-* [Network Actors](#network-actors)
-* [IRIS Services](#iris-services)
-* [IBC Enhancement](#ibc-enhancement)
-* [Use Cases](#use-cases)
-* [Token Economics](#token-economics)
-* [Initial Token Distribution](#initial-token-distribution)
-* [Roadmap](#roadmap)
-* [The Team](#the-team)
+* [Introduction](#introduction)
+* [Disclaimer](#Disclaimer)
+* [A bit of history](#a-bit-of-history)
+* [Blockchain and Pilot Projects](#blockchain-and-pilot-projects)
+** [DLT + Traceability](#dlt-traceability)
+** [DLT + Trusted Identity](#dlt-trusted-identity)
+** [DLT + Corporate Tokens](#dlt-corporate-tokens)
+* [About Africa Token Lab](#about-africa-token-lab)
+** [Communication](#communication)
+** [Roles & Responsibilities](#roles-responsibilities)
+* [Strategic Environment](#strategic-environment)
+** [Organizational Overview](#organizational-overview)
+** [Business Need](#business-need)
+** [Drivers for Change](#driver-for-change)
 * [Core Members](#core-members)
 * [Advisors](#advisors)
-* [References](#references)-->
+* [References](#references)
 <div STYLE="page-break-after: always;"></div>
 
 
@@ -83,7 +88,7 @@ In the proposed process to resolve a dispute that arises between service provide
 
 # A bit of history
 
-# Chapter I – Blockchain: A Social Experiment and Financial Revolution
+# Blockchain: A Social Experiment and a Societal Transformation
 
 ## The History of Blockchain Technology
 ### also know as (a.k.a) Distributed Ledger of Technology
@@ -101,7 +106,7 @@ In 2015, the open-source project Ethereum was officially released, featuring the
 
 The rapid development of blockchain technology has gradually raised the public profile of digital currency. This has especially been the case since early 2017, when initial coin offerings (ICOs) became an increasingly prominent and frequent business practice, helping a broad plethora of products to continuously emerge across the industry, bringing a new cycle of prosperity to the digital currency market. At the end of 2017, this surge reached its peak, and observers inside and outside the industry widely opined that blockchain would become the next tech revolution following the mobile internet. During this same period, a large number of leaders in the tech and finance industries began to actively embrace blockchain for use in their companies or projects.
 
-## The Impact of Blockchain on Traditional Finance
+## The Impact of Blockchain on Traditional Finance and on our Society
 
 Technological innovation and development has allowed the format of financial services to evolve. Over the past five decades, electronic financial data has replaced hand-written records, enabling an era of credit cards. The popularity of terminals has marked the ATM era, while the coming of Internet and mobile Internet has introduced electronic banking and mobile payments.
 
@@ -158,9 +163,9 @@ In February 2019, J.P. Morgan Chase & Co., the largest US commercial bank, annou
 
 # About Africa Token Lab
 
-## What do we want to achieve
+## What we want to achieve
 <ul>
-<li>Our Mission is to shift our current way of doing things to an incentives-based model
+<li>Our Mission is to shift the way of doing things to an incentives-based model
 </li>
 <li>Objective: Tokenize the economy
 </li>
@@ -180,7 +185,7 @@ In February 2019, J.P. Morgan Chase & Co., the largest US commercial bank, annou
 efficiency</li>
 <li>Agriculture / Agri Tech
 </li>
-<Blockchain for IoT security
+<li>Blockchain for IoT security
 </li>
 <li>Food and beverage industry
 </li>
@@ -195,18 +200,14 @@ efficiency</li>
 </ol>
 </ul>
 
-<ul>Our initial customers segment target are organizations.
-<li>We work with public private organisations to finding innovative,
+<ul>Our initial customers segment target are organizations. We work with public private organisations to
+<li>finding innovative, user-centered approach to solve problems in a time and cost efficient fashion, providing
 </li>
-<li>user-centered approach to solve their problems in a time and cost
+<li>transparence, immutability and trust along the way to end-users
 </li>
-<li>efficient fashion, offering along the way transparence, immutability and
+<li>by leveraging on distributed ledger technology,
 </li>
-</li>trust to end-users by leveraging on distributed ledger technology, with
-</li>
-</li>a particular focus on the practical application to the 'real economy' of
-</li>
-<li>the concepts such as smart contracts, private keys or Token.
+<li>with a particular focus on the practical application to the 'real economy' of smart contracts, private keys or Token.
 </li>
 </ul>
 
@@ -236,8 +237,8 @@ Twitter, WhatsApp / Slack, YouTube, Medium, Vimeo, Signal, (Telegram?)
 </ol>
 </ul>
 
-### Roles & Responsibilities
-<ul>Who does what
+## Roles & Responsibilities
+### Who does what
 <li> Désiré is technology expert and entrepreneur in the tech startup ecosystem;</li>
 <li> Norbert is blockchain strategist, and entrepreneur in e-commerce sector;</li>
 <li> Michael is security professional, entrepreneur founder of a crypto company Bit2Big;</li>
@@ -245,9 +246,9 @@ Twitter, WhatsApp / Slack, YouTube, Medium, Vimeo, Signal, (Telegram?)
 
 
 
-## Strategic Environment
+# Strategic Environment
 
-### Organizational Overview
+## Organizational Overview
 
 Openness and transparency are fundamental to ensuring people's trust in their government, country's businesses, and in democracy as a whole. Citizens expect their government to be open, transparent, and accountable. They also expect public organizations, and nowadays private organizations as well, to deliver real, meaningful results, in a fair, efficient, and responsible manner. Africa Tiken Lab's commitment to openness is intended to foster greater transparency and accountability from partners it collaborates with, and to help create a more cost-effective, efficient, and responsive society for all stakeholders.
 
@@ -256,14 +257,14 @@ The Africa Token Lab is committed to raising the bar on openness and transparenc
 We are delivering on that with the [Africa Token Lab portal](https://bit.ly/africatokenlab).
 
 
-### Business Need
+## Business Need
 
 The future Africa Tiken Lab departments and units need to find effective ways to offer the best digital services possible to consumers and partners. This implies working in the open by default, by releasing all non-sensitive data, information and source code under an open licence that enables sharing and reuse. There's a need for improved interoperability between systems; more independence from data formats, software, technologies and vendors; substitutability of solutions and service providers and; avoiding lock-in to enable greater flexibility in the management of IT solutions. The Africa Token Lab shall also provide benefits to the public-at-large as well as support the local, regioanl and continental economy and communities.
 
 A practical example, also presented in this document, shall be the use of blockchain technology in the context of agricultural transformation:
 Food Safety is of vested interest for both producer and consumer and to achieve that it is important to have the traceability (via proof of origin) for knowing if it is fresh and exactly where it comes from, who grew and processed it. This could also help in preventing fraud, false labelling, redundant middlemen, reducing transaction costs and overcoming some challenges of logistics, especially related perishable food items with shorter shelf life. 
 
-### Drivers for Change
+## Drivers for Change
 
 #### Technology and Efficiency
 
@@ -279,6 +280,7 @@ Consumers and stakeholders expect accessibility, official languages and continuo
 Releasing an in-house software code under an creative common licence, for example and among others, can encourage external contributions and collaboration from governments, companies, students and consumers overall in the form of source code, bugs and documentation. The project can be a joint effort amongst multiple companies, public sector workers, and individual volunteers. 
 
 
+# Reference
 
 
 
