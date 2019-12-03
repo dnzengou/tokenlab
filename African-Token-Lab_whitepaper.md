@@ -25,7 +25,7 @@ document. Please check regularly for updates!_
 * [About Africa Token Lab](#about-africa-token-lab)
 ** [Communication](#communication)
 ** [Roles & Responsibilities](#roles-responsibilities)
-* [Strategic Environment](#strategic-environment)
+* [Strategic Environment](#strategic environment)
 ** [Organizational Overview](#organizational-overview)
 ** [Business Need](#business-need)
 ** [Drivers for Change](#driver-for-change)
@@ -77,7 +77,7 @@ If any changes moving forward, we'll keep you informed via this working reposito
 
 **Dispute Resolution**
 
-In any case where a consumer is unsatisfied with a service response, a complaint manangement mechanism should exist allowing the consumer to issue a complaint and consequently, to receive an acceptable solution to that complaint, subjecting that the said mechanism is compliant to regulation in place, though without having to resort to a centralized authority such as the legal system in place.  Also, this mechanism should avoid introducing subjective evaluation, which could be abused by both side.
+In any case where a consumer is unsatisfied with a service response, a complaint management mechanism should exist allowing the consumer to issue a complaint and consequently, to receive an acceptable solution to that complaint, subjecting that the said mechanism is compliant to regulation in place, though without having to resort to a centralized authority such as the legal system in place.  Also, this mechanism should avoid introducing subjective evaluation, which could be abused by both sides.
 
 In the proposed process to resolve a dispute that arises between service provider and consumer within an Africa Token Lab project, the mechanism shall be designed in a way that a consumer sends a `Complaint` to the service provider, and the later responds with a `Resolution`.
 
@@ -91,7 +91,7 @@ In the proposed process to resolve a dispute that arises between service provide
 # Blockchain: A Social Experiment and a Societal Transformation
 
 ## The History of Blockchain Technology
-### also know as (a.k.a) Distributed Ledger of Technology
+### also known as (a.k.a) Distributed Ledger of Technology
 ### or Distributed Ledger of Trust (DLT)
 
 In 1982, American computer scientist David Chaum first put forward the idea of an untraceable cryptographic online payment system. In 1990, he developed this idea into the world’s first anonymous cryptographic electronic cash system, known as eCash.
@@ -102,23 +102,23 @@ In 1998, the same year that Wei Dai's paper was published, Nick Szabo created th
 
 In 2008, Satoshi Nakamoto released *Bitcoin: A Peer to Peer Electronic Cash System* on a cryptography mailing list – the first paper to propose the concept of blockchain. He then used this concept to propose the construction of the Bitcoin blockchain network. Since its establishment in 2009, the Bitcoin blockchain network has maintained operations, and the entire digital currency process has now been fully realized, from token issuance to digital asset circulation. At the same time, the basic underlying technology of blockchain has also been applied to a gradually growing set of scenarios, which has subsequently helped to create various new types of digital currencies.
 
-In 2015, the open-source project Ethereum was officially released, featuring the concept of smart contracts, inspiring a host of innovators. Ethereum provides complete freedom through its Turing-complete scripting language, and allows for consistent registration and transfer of a variety of digital assets and smart contracts, greatly facilitating the issuance and circulation of digital currency, and significantly broadening its application scenarios.
+In 2015, the open-source project Ethereum was officially released, featuring the concept of smart contracts, inspiring a host of innovators. Ethereum provides complete freedom through its Turing-complete scripting language and allows for consistent registration and transfer of a variety of digital assets and smart contracts, greatly facilitating the issuance and circulation of digital currency, and significantly broadening its application scenarios.
 
 The rapid development of blockchain technology has gradually raised the public profile of digital currency. This has especially been the case since early 2017, when initial coin offerings (ICOs) became an increasingly prominent and frequent business practice, helping a broad plethora of products to continuously emerge across the industry, bringing a new cycle of prosperity to the digital currency market. At the end of 2017, this surge reached its peak, and observers inside and outside the industry widely opined that blockchain would become the next tech revolution following the mobile internet. During this same period, a large number of leaders in the tech and finance industries began to actively embrace blockchain for use in their companies or projects.
 
 ## The Impact of Blockchain on Traditional Finance and on our Society
 
-Technological innovation and development has allowed the format of financial services to evolve. Over the past five decades, electronic financial data has replaced hand-written records, enabling an era of credit cards. The popularity of terminals has marked the ATM era, while the coming of Internet and mobile Internet has introduced electronic banking and mobile payments.
+Technological innovation and development have allowed the format of financial services to evolve. Over the past five decades, electronic financial data has replaced hand-written records, enabling an era of credit cards. The popularity of terminals has marked the ATM era, while the coming of Internet and mobile Internet has introduced electronic banking and mobile payments.
 
 The arrival of blockchain today marks another historical era.
 
-Blockchain, together with technologies such as big data, AI, cloud computing, and bio-informatics, will form the internet underlying infrastructure for the next generation. This infrastructure will be able to overcome several longstanding problems in the current various systems that govern areas of finance, supply chain, agriculture, health data and identity management, traceability, etc .
+Blockchain, together with technologies such as big data, AI, cloud computing, and bioinformatics, will form the internet underlying infrastructure for the next generation. This infrastructure will be able to overcome several longstanding problems in the current various systems that govern areas of finance, supply chain, agriculture, health data and identity management, traceability, etc.
 
-First and foremost rationales behind the invention and use of blockchain are closely linked to challenges hereby presented, in relation to financial sector to start with, that every one of us can relate to, to a certain degree, and as many areas of opportunity for blockchain 
+First and foremost, rationales behind the invention and use of blockchain are closely linked to challenges hereby presented, in relation to financial sector to start with, that every one of us can relate to, to a certain degree, and as many areas of opportunity for blockchain 
 
 1.  In the traditional centralized financial system, financial intermediary fees are high enough to limit transaction scale. Intermediaries not only have large expenses for themselves, but also require high profits to cover potential credit risks. Blockchain distributed ledger is a trust machine; It can help financial institutions save on intermediary costs, without requiring a third-party intermediary, making small and micro-sized peer-to-peer transactions possible.
 
-2.  In the traditional centralized financial system, transactions are frequently not “atomized,” but rather the intermediary assumes the responsibility as a guarantor, which makes it possible for either party to maliciously default and defraud the other party. Since blockchain is a distributed technology, a financial system based on it contains no single point of failure, and creates no risk of collapse.
+2.  In the traditional centralized financial system, transactions are frequently not “atomized,” but rather the intermediary assumes the responsibility as a guarantor, which makes it possible for either party to maliciously default and defraud the other party. Since blockchain is a distributed technology, a financial system based on it contains no single point of failure and creates no risk of collapse.
 
 3.  In the traditional centralized financial system, users’ private data and assets are potentially vulnerable. In the blockchain network, user data is kept by users themselves, instead of in a centralized system, realizing democratization of data, and effectively protecting privacy and asset security.
 
@@ -135,7 +135,7 @@ Some are listed below:
 ### Projects
 
 #### DLT + Traceability
-Considering the inability to accurately and fully -- all along the value chain -- track goods or transactions from end-to-end cause citizens to demand for more transparency, traceability and fair processes applied to products they consume. We are here calling for  the community’s creativity to come up with innovative ways to check the proof of origin for procured products. In particular, solutions should prove, among other things, that food supply is safe, smallholder farmers have been fairly retributed, farm or agricultural products are meeting compliance standards, EH&S (Environment, Health and Safety) and quality requirements.
+Considering the inability to accurately and fully -- all along the value chain -- track goods or transactions from end-to-end cause citizens to demand for more transparency, traceability and fair processes applied to products they consume. We are here calling for the community’s creativity to come up with innovative ways to check the proof of origin for procured products. In particular, solutions should prove, among other things, that food supply is safe, smallholder farmers have been fairly retributed, farm or agricultural products are meeting compliance standards, EH&S (Environment, Health and Safety) and quality requirements.
 
 #### DLT + Digital Fiat Currencies
 
@@ -179,7 +179,7 @@ In February 2019, J.P. Morgan Chase & Co., the largest US commercial bank, annou
 </li>
 <ol>Payment tokenisation
 </ol>
-<li>Supply chain, logistique
+<li>Supply chain, logistics
 </li>
 <li>Blockchain for administrative processes
 efficiency</li>
@@ -201,9 +201,9 @@ efficiency</li>
 </ul>
 
 <ul>Our initial customers segment target are organizations. We work with public private organisations to
-<li>finding innovative, user-centered approach to solve problems in a time and cost efficient fashion, providing
+<li>finding innovative, user-centered approach to solve problems in a time and cost-efficient fashion, providing
 </li>
-<li>transparence, immutability and trust along the way to end-users
+<li>transparency, immutability and trust along the way to end-users
 </li>
 <li>by leveraging on distributed ledger technology,
 </li>
@@ -239,10 +239,10 @@ Twitter, WhatsApp / Slack, YouTube, Medium, Vimeo, Signal, (Telegram?)
 
 ## Roles & Responsibilities
 ### Who does what
-<li> Désiré is technology expert and entrepreneur in the tech startup ecosystem;</li>
+<li> Désiré is technology expert and entrepreneur in the tech start-up ecosystem;</li>
 <li> Norbert is blockchain strategist, and entrepreneur in e-commerce sector;</li>
 <li> Michael is security professional, entrepreneur founder of a crypto company Bit2Big;</li>
-<li> Frank is a parliementary and environmental policy specialist.</li>
+<li> Frank is a parliamentary and environmental policy specialist. </li>
 
 
 
@@ -250,7 +250,7 @@ Twitter, WhatsApp / Slack, YouTube, Medium, Vimeo, Signal, (Telegram?)
 
 ## Organizational Overview
 
-Openness and transparency are fundamental to ensuring people's trust in their government, country's businesses, and in democracy as a whole. Citizens expect their government to be open, transparent, and accountable. They also expect public organizations, and nowadays private organizations as well, to deliver real, meaningful results, in a fair, efficient, and responsible manner. Africa Tiken Lab's commitment to openness is intended to foster greater transparency and accountability from partners it collaborates with, and to help create a more cost-effective, efficient, and responsive society for all stakeholders.
+Openness and transparency are fundamental to ensuring people's trust in their government, country's businesses, and in democracy as a whole. Citizens expect their government to be open, transparent, and accountable. They also expect public organizations, and nowadays private organizations as well, to deliver real, meaningful results, in a fair, efficient, and responsible manner. Africa Token Lab's commitment to openness is intended to foster greater transparency and accountability from partners it collaborates with, and to help create a more cost-effective, efficient, and responsive society for all stakeholders.
 
 The Africa Token Lab is committed to raising the bar on openness and transparency. All federal departments and agencies will do their part to ensure an open, honest organization that is accountable to consumers, lives up to the highest ethical standards, and advances stakeholders' priorities with a renewed sense of collaboration.
 
@@ -259,7 +259,7 @@ We are delivering on that with the [Africa Token Lab portal](https://bit.ly/afri
 
 ## Business Need
 
-The future Africa Tiken Lab departments and units need to find effective ways to offer the best digital services possible to consumers and partners. This implies working in the open by default, by releasing all non-sensitive data, information and source code under an open licence that enables sharing and reuse. There's a need for improved interoperability between systems; more independence from data formats, software, technologies and vendors; substitutability of solutions and service providers and; avoiding lock-in to enable greater flexibility in the management of IT solutions. The Africa Token Lab shall also provide benefits to the public-at-large as well as support the local, regioanl and continental economy and communities.
+The future Africa Token Lab departments and units need to find effective ways to offer the best digital services possible to consumers and partners. This implies working in the open by default, by releasing all non-sensitive data, information and source code under an open licence that enables sharing and reuse. There's a need for improved interoperability between systems; more independence from data formats, software, technologies and vendors; substitutability of solutions and service providers and; avoiding lock-in to enable greater flexibility in the management of IT solutions. The Africa Token Lab shall also provide benefits to the public-at-large as well as support the local, regional and continental economy and communities.
 
 A practical example, also presented in this document, shall be the use of blockchain technology in the context of agricultural transformation:
 Food Safety is of vested interest for both producer and consumer and to achieve that it is important to have the traceability (via proof of origin) for knowing if it is fresh and exactly where it comes from, who grew and processed it. This could also help in preventing fraud, false labelling, redundant middlemen, reducing transaction costs and overcoming some challenges of logistics, especially related perishable food items with shorter shelf life. 
@@ -270,14 +270,14 @@ Food Safety is of vested interest for both producer and consumer and to achieve 
 
 Leveraging technologies that are built on open standards mitigate against the risk of lock-in and offers the interoperability, independence and substitutability required to design enterprise level applications and services. Africa Token Lab by default encourages the use of open standards and their inherent flexibility enables rapid response to changing missions and markets as well as swift provisioning of both known and unanticipated users.
 
-From a support and maintenance perspective, future Africa Token Lab software solutions - as opposed to more burdensome usages of proprietary software and their users licences - provides a real cost advantage where multiple copies of software are required, or when the user base grows. Since there is no need to manage individual user licence, the focus is more on maintaining the application itself.
+From a support and maintenance perspective, future Africa Token Lab software solutions - as opposed to more burdensome usages of proprietary software and their users’ licences - provides a real cost advantage where multiple copies of software are required, or when the user base grows. Since there is no need to manage individual user licence, the focus is more on maintaining the application itself.
 
 
 #### Community, Demography and Society
 
 Consumers and stakeholders expect accessibility, official languages and continuous improvements of digital services provided by the Africa Token Lab.
 
-Releasing an in-house software code under an creative common licence, for example and among others, can encourage external contributions and collaboration from governments, companies, students and consumers overall in the form of source code, bugs and documentation. The project can be a joint effort amongst multiple companies, public sector workers, and individual volunteers. 
+Releasing an in-house software code under a creative common licence, for example and among others, can encourage external contributions and collaboration from governments, companies, students and consumers overall in the form of source code, bugs and documentation. The project can be a joint effort amongst multiple companies, public sector workers, and individual volunteers. 
 
 
 # Reference
