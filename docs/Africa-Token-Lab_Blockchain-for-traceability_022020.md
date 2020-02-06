@@ -40,20 +40,20 @@ Significant challenges in digitizing companies' supply chains remain, though:
 
 
 ### High-level view on the process
-**** Data collection and information capture ****
+##### Data collection and information capture
 To facilitate traceability and visibility on their products or services, hence providing a proof—or audit—of a transaction that has happened while demonstrating non alteration of the data, companies must first capture the relevant information information embedded into collected (or logged) data.<br>
 This is done by implementing a global identification for all of the products and locations relevant to their operations—at the batch/lot level for products.<br>
 Once this is completed, companies must standardize (or leverage on existing) data model(s) for physical supply chain events and capture the information in the business applications.
 
-**** Sharing the data ***
+##### Sharing the data
 To share the data required to facilitate traceability and visibility, thus ensuring business application interoperability and choice for various solutions,
 Standardised data formats, exchange system interfaces and protocols are needed at two different levels:
 Standardised interfaces for capture and query of the database on a standard data model; Standardised communication protocol (eg. Web Services, REST etc.)
 
-**** Identifying known and unknown partners ****
+##### Identifying known and unknown partners
 As the multiple parties with whom companies need to communicate and share data are often spread across complex supply chains, a method for discovery (eg. routing, registry service) is highly needed.
 
-**** Ensuring governance for use cases ****
+##### Ensuring governance for use cases
 Lastly, comes the need to establish governance and agreement principles, in the form of a set of rules focusing on the minimal requirements needed to share data between parties and between members of a network, for each business case
 
 
@@ -61,28 +61,28 @@ Lastly, comes the need to establish governance and agreement principles, in the 
 The specific requirements of the blockchain layer need to be understood for a speicific use case, industry or ecosystem.
 The type of data written to a blockchain ledger, that vary depending on the system and/or solution implemented, can be;
 
-**** A fully formed, cryptographically signed plain text event data.****
+##### A fully formed, cryptographically signed plain text event data.
 Note. There could be a concern about scalability and performance in the occurence of full events written to a ledger.
 
-**** A cryptographic hash of the data with a pointer to required off-chain data exchange, via a
-separate traceability application and a hash comparison (with the hash that was written to the ledger).
+##### A cryptographic hash of the data with a pointer to required off-chain data exchange
+via a separate traceability application and a hash comparison (with the hash that was written to the ledger).
 
 A combination of the above, possibly with other methods, can enable the ledger to act as part of a discovery mechanism for parties who need to communicate and share data.
 
 
 Based on the DLT in application, the following parties are allowed to see the data that is stored on a ledger;
 
-**** Public****
+##### Public
 Transactions to everyone.
 
-**** Private****
+##### Private
 Transactions are only viewable to parties approved.
 
 
 ### Ways ahead
 If/when an industry determines that an added layer of DLT is needed and relevant for a specific business problem, below are listed the different considerations to account for;
 
-**** Business ****
+##### Business
 1. Concertation over
 1.1. The application of existing standards for unique identification and visibility on data models, and
 1.2. The method of data exchange.
@@ -92,7 +92,7 @@ If/when an industry determines that an added layer of DLT is needed and relevant
 3. Governance policy making for a broader blockchain-based solution ecosystem.
 
 
-**** Technical****
+##### Technical
 
 1. Discovery method on data-sharing partners.
 
@@ -155,13 +155,13 @@ managing the project;
 Project's timeline, Reporting and deliverable to be submitted as per use case specific requirements.
 
 
-| Preliminary Assessment     | Technical Feasibility and Financial Viability        | Policy and Organizational Framework    |Outputs       |Ord_Akt    |FSG      |ANTAL    |ANTAL_KG     |
+| Preliminary Assessment     |        |     |       |Technical Feasibility and Financial Viability    |FSG      |ANTAL    |ANTAL_KG     |    | Policy and Organizational Framework |  |  | Outputs
 | --------|:----------:| ------:| ----------:| ---------:|--------:| -------:| -----------:|
-| Scope | Stakeholders and Needs |Perception, Challenges and Opportunities     |Use Cases  |Solution Mapping and Specs        |People  |CBA      |	Risk Management     |
-| Deliverable | Lösviktsgodis |159     |2019-11-05  |11         |3913.86  |98       | 	44.215     |
+| Scope | Stakeholders and Needs |Perception, Challenges and Opportunities     |Use Cases  |Solution Mapping and Specs        |People  |CBA      |	Risk Management     | Governance | Rules
+| Deliverable |
 
 
-**** Sources: ****
+##### Sources:
 [1] GS1 Traceability and Blockchain whitepaper
 [2] Accenture Tracing Supply Chain Blockchain Study
 
