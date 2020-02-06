@@ -16,7 +16,7 @@ The study looks at the opportunities and challenges of implementing this emergin
  industry actors are coming together to invoke from technologists and blockchain strategists [1]:
 • A clear definitions of business problems that call on innovative, human-centered approaches;
 • Data requirements for effective traceability and other business processes;
-• Interoperability of data-sharing systems and, if applicable, payment options for operator along the production line.
+• Interoperability of data-sharing systems and, if applicable, payment options for operators along the production line.
 Let us remind that interoperability illustrates the ability of different computerised systems (even when belonging to different ecosystems) to readily connect and communicate with one another.
 
 
@@ -30,19 +30,19 @@ In light of this we believe that real-time traceability of products, in particul
 
 Though it does not alone solve traceability, nor it does solve the human challenges at hand or the need for digital transformation within companies, blockchain can be a game-changer by prompting for new ways of working, enabling greater accountability and trust when implemented effectively. Additionally, reliable data can help optimize business decisions and reach higher standards to meet customers demands.
 
-With dynamic international business environment, supply chains are evolving into “supply chain networks”. Companies recognize that to succeed in the digital economy, they must manage the integration of business, people, technology and processes across extended enterprises — therefore enabling inter-enterprise cooperation and collaboration with suppliers, customers, business partners.
+With a dynamic international business environment, supply chains are evolving into “supply chain networks”. Companies recognize that to succeed in the digital economy, they must manage the integration of business, people, technology and processes across extended enterprises — therefore enabling inter-enterprise cooperation and collaboration with suppliers, customers, business partners.
 Significant challenges in digitizing companies' supply chains remain, though:
 1. Coordinating across multiple, disconnected supply chain actors of the network;
 2. Lack of connectivity;
 3. Costly data reconciliation processes;
-4. Ineffective solutions for handling big datalarge amounts of data.
+4. Ineffective solutions for handling large amounts of data.
 
 
 
 ### High-level view on the process
 ##### Data collection and information capture
-To facilitate traceability and visibility on their products or services, hence providing a proof—or audit—of a transaction that has happened while demonstrating non alteration of the data, companies must first capture the relevant information information embedded into collected (or logged) data.<br>
-This is done by implementing a global identification for all of the products and locations relevant to their operations—at the batch/lot level for products.<br>
+To facilitate traceability and visibility on their products or services, hence providing a proof—or audit—of a transaction that has happened while demonstrating non alteration of the data, companies must first capture the relevant information embedded into collected (or logged) data.
+This is done by implementing a global identification for all of the products and locations relevant to their operations—at the batch/lot level for products.
 Once this is completed, companies must standardize (or leverage on existing) data model(s) for physical supply chain events and capture the information in the business applications.
 
 ##### Sharing the data
@@ -54,21 +54,20 @@ Standardised interfaces for capture and query of the database on a standard data
 As the multiple parties with whom companies need to communicate and share data are often spread across complex supply chains, a method for discovery (eg. routing, registry service) is highly needed.
 
 ##### Ensuring governance for use cases
-Lastly, comes the need to establish governance and agreement principles, in the form of a set of rules focusing on the minimal requirements needed to share data between parties and between members of a network, for each business case
+Lastly, comes the need to establish governance and agreement principles, in the form of a set of rules focusing on the minimal requirements needed to share data between parties and between members of a network, for each business case.
 
 
 ### Basic understanding the blockchain layer
-The specific requirements of the blockchain layer need to be understood for a speicific use case, industry or ecosystem.
+The specific requirements of the blockchain layer need to be understood for a specific use case, industry or ecosystem.
 The type of data written to a blockchain ledger, that vary depending on the system and/or solution implemented, can be;
 
 ##### A fully formed, cryptographically signed plain text event data.
-Note. There could be a concern about scalability and performance in the occurence of full events written to a ledger.
+Note. There could be a concern about scalability and performance in the occurrence of full events written to a ledger.
 
 ##### A cryptographic hash of the data with a pointer to required off-chain data exchange
 via a separate traceability application and a hash comparison (with the hash that was written to the ledger).
 
 A combination of the above, possibly with other methods, can enable the ledger to act as part of a discovery mechanism for parties who need to communicate and share data.
-
 
 Based on the DLT in application, the following parties are allowed to see the data that is stored on a ledger;
 
@@ -98,7 +97,7 @@ If/when an industry determines that an added layer of DLT is needed and relevant
 
 2. Identify what is to be written to the DLT, and how.
 
-3. Idetify areas in need of consistency and standardisation on data written to ledgers.
+3. Identify areas in need of consistency and standardisation on data written to ledgers.
 
 4. Concertation over
 3.1. Requirements for access and visibility (private or public) to ledger transactions), and
@@ -121,35 +120,37 @@ Further words about value brought up by the blockchain in a traceability context
 
 ### Implementation process
 
-Below are identified the key components of implementing a blockchain traceability solution, independantly of the industry of focus;
+Below are identified the project's key components for implementing a blockchain traceability solution, independantly of the industry of focus;
 
-1. Preliminary Assessment
-2. Technical Feasibility and Financial Viability
-3. Policy and Organizational Framework
-4. Outputs
+• Initiation: Preliminary Assessment
+• Planning: Policy and Organizational Framework; Technical Feasibility and Financial Viability
+• Execution: Human Centered Design and Roll out;
+• Closure: Control and Monitoring; Output.
 
 
 The scope of the study is as follows;
 
 1. Preliminary Assessment
-1.1. Project scope
+1.1. Project scope;
 1.1.1. The framework within which the study is carried out;
-1.1.2. Infrastructure assessment, necessary for safely, securely, sustainably and efficiently
-managing the project;
+1.1.2. Infrastructure assessment, necessary for safely, securely, sustainably and efficiently managing the project;
 1.1.3. Project rationales.
 
 1.2. Identification of potential stakeholders and partners; Quantify needs;
 1.3. Evaluation of customers and stakeholders' perception. Challenges and opportunities;
 1.4. Feasible use case(s) assessment
 
-2. Technical Feasibility and Financial Viability
-2.1. Solution mapping
-2.2. Solution specification
-2.3. People (personnel, users or customers) requirement
-2.4. Cost-Benefit Analysis (CBA) and Budgetary Estimation
-2.5. Risk management and mitigation measures
+2. Policy and Organizational Framework
+2.1. Governance
+2.2. Rules
 
-3. Policy and Organizational Framework
+3. Technical Feasibility and Financial Viability
+3.1. Solution mapping
+3.2. Solution specification
+3.3. People (personnel, users or customers) requirement
+3.4. Cost-Benefit Analysis (CBA) and Budgetary Estimation
+3.5. Risk management and mitigation measures
+
 
 4. Outputs
 Project's timeline, Reporting and deliverable to be submitted as per use case specific requirements.
