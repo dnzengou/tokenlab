@@ -155,10 +155,13 @@ managing the project;
 Project's timeline, Reporting and deliverable to be submitted as per use case specific requirements.
 
 
-| Preliminary Assessment     |...        |...    |...       |Technical Feasibility and Financial Viability    |...      |...    |...     |...    | Policy and Organizational Framework |...  |...  | Outputs
-| --------|:----------:| ------:| ----------:| ---------:|--------:| -------:| -----------:|
+| Preliminary Assessment |... |... |... |Technical Feasibility and Financial Viability |...|...|...| Policy and Organizational Framework |...  | Output|
+|--------|:----------:| ------:| ----------:| ---------:|--------:| -------:| -----------:| :----------:| :----------:| :----------:| :----------:| :----------:|
 | Scope | Stakeholders and Needs |Perception, Challenges and Opportunities     |Use Cases  |Solution Mapping and Specs        |People  |CBA      |	Risk Management     | Governance | Rules
 | Deliverable |
+
+
+
 
 
 ##### Sources:
