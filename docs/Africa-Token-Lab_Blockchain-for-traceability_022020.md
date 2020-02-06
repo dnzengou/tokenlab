@@ -161,6 +161,9 @@ Project's timeline, Reporting and deliverable to be submitted as per use case sp
 | Deliverable |
 
 
+| Preliminary Assessment |
+|--------|:----------:| ------:| ----------:|
+| Scope | Stakeholders and Needs |Perception, Challenges and Opportunities     |Use Cases  
 
 
 
